@@ -6,7 +6,7 @@ sudo hostnamectl set-hostname name.domain
 sudo su -
 apt update && apt upgrade -y
 apt -y install postfix postfix-doc dovecot-imapd dovecot-pop3d sasl2-bin
- - enta.pt
+ - domain
 dpkg-reconfigure postfix
  - domain
  - ubuntu (in these case is ubuntu)
