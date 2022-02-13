@@ -82,4 +82,4 @@ adduser (your users)
 cp /home/ubuntu/.xsession /home/youruser/.xsession
 chown youruser:youruser /home/youruser/.xsession
 ```
-You need to install the GUI
+You need to install the GUI in the client
